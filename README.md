@@ -1,3 +1,4 @@
+  --FastAttackGod
   if not game:IsLoaded() then game.Loaded:Wait() end
   repeat wait() until game.Players
   repeat wait() until game.Players.LocalPlayer
@@ -170,8 +171,8 @@
   
     
     local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/naypramx/Ui__Project/Script/XeNonUi", true))()
-    library:CreateWatermark("Zeru Hub Paid Script")
-    local CenterHubNo1 = library:CreateWindow(os.date("Zeru Hub - %A %d %B %Y"),Enum.KeyCode.RightControl)
+    library:CreateWatermark("FB:Kaito Kung")
+    local CenterHubNo1 = library:CreateWindow(os.date("KAITO | HUB MAX - %A %d %B %Y"),Enum.KeyCode.RightControl)
     local Tab = CenterHubNo1:CreateTab("Genaral")
     local Tab1 = CenterHubNo1:CreateTab("Item")
     local Tab2 = CenterHubNo1:CreateTab("Teleport")
